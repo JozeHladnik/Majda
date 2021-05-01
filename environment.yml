@@ -1,0 +1,14 @@
+name: JozeHladnik/jupyter-analyse
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - voila
+  - matplotlib
+  - pandas
+  - seaborn
+  #- bqplot
+  #- folium
+  #- bokeh
+ # - dask
+  #- psutil
