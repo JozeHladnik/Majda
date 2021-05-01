@@ -5,7 +5,8 @@ dependencies:
   - numpy
   - voila
   - pandas
-  - seaborn
+  #- matplotlib
+  #- seaborn
   #- bqplot
   #- folium
   #- bokeh
